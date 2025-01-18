@@ -1,5 +1,6 @@
 
-div{
+container{
+    display: flex;
     border: 10px solid aqua;
     background-color: red;
 }
